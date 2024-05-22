@@ -11,3 +11,19 @@ p{
     line-height: 1.3;
     text-align: justify;
 }
+
+p:first-line {
+    font-size: 1.17em;
+    font-variant: small-caps;
+    font-weight: bolder;
+    font-style: italic;
+}
+
+hr{
+    border-color: #C0262c;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
