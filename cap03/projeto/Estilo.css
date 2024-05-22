@@ -1,0 +1,13 @@
+h2{
+    font-size: 1.75em; /* 28/16=1.75 */
+}
+
+h1{
+    color: #C0262c;
+}
+
+p{
+    font-size: 1.1em;
+    line-height: 1.3;
+    text-align: justify;
+}
