@@ -4,6 +4,8 @@ h2{
 
 h1{
     color: #C0262c;
+    border-bottom: #C0262c solid thin;
+    padding-bottom: 7px;
 }
 
 p{
