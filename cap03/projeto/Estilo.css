@@ -29,3 +29,8 @@ body{
     font-family: Arial, Helvetica, sans-serif;
 }
 
+#produtos table{
+    width: 600px;
+    margin: 50px auto 30px;
+    text-align: center;
+}
